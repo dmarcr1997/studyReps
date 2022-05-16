@@ -1,24 +1,7 @@
-# README
+# StudyArc
+This is a spaced repetition study tracker app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+First repetition: 1 day
+Second repetition: 7 days
+Third repetition: 16 days
+Fourth repetition: 35 days
